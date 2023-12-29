@@ -36,3 +36,7 @@ Depois de conversar com os gerentes e administradores de banco de dados, você e
 - A tabela fica armazenada no banco de dados do youtube , criado especialmente para suas necessidades
 - Intervalo de atualização de dados: uma vez a cada 24 horas, à meia-noite UTC
 - Gráficos, controles do dashboard e sua disposição:
+
+**Exemplo da configurçaõ do dashboard**
+
+<img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/11.5.2PT_1658740194.png">
